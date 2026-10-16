@@ -51,5 +51,7 @@ The dataset contains transaction-level sales data covering product, customer, an
 
 ## ⚙️ Project Workflow
 
-```text
-[ Data Loading ] ➔ [ Data Cleaning ] ➔ [ Feature Engineering ] ➔ [ Exploratory Data Analysis ] ➔ [ Visualizations ] ➔ [ Insights ]
+👤 Author
+Anju Cherian
+
+Audit Professional | Data Analytics Enthusiast
