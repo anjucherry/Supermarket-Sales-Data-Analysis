@@ -113,4 +113,6 @@ Supermarket-Sales-Data-Analysis/
 ├── Data Analytics Final Project.ipynb
 └── README.md
 
+👤 Author
+Anju Cherian
 Audit Professional | Data Analytics Enthusiast
