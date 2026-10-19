@@ -68,22 +68,19 @@ The dataset contains transaction-level retail records covering store operations,
 | **Jupyter Notebook** | Interactive development and documentation environment |
 
 ---
-
 ## 📊 Key Visualizations
 
 ### 1. Sales by Product Category (Bar Chart)
-![Sales by Category](visualizations/sales_by_category.png)
+![Sales by Category](visualizations/Bar%20Chart_sales_by_category.png)
 
 ### 2. Transaction Distribution by Payment Mode (Pie Chart)
-![Payment Mode Distribution](visualizations/payment_mode_pie.png)
+![Payment Mode Distribution](visualizations/transaction_pie_chart.png)
 
 ### 3. Monthly Sales Trend (Line Plot)
-![Monthly Sales Trend](visualizations/monthly_sales_trend.png)
+![Monthly Sales Trend](visualizations/Line%20plot_monthly_sales_trend.png)
 
 ### 4. Correlation Heatmap
 ![Correlation Heatmap](visualizations/correlation_heatmap.png)
-
-*(Note: Ensure your 4 saved chart PNG files in the `visualizations/` folder match these exact file names).*
 
 ---
 
